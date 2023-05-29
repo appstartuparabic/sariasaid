@@ -1,20 +1,20 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: cv
+description: Saria Said online CV
+taglong: Saria Said online CV
+tagshort: Saria Said
+url: https://sariasaidcv.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/appstartuparabic/appstartuparabic.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/photo.jpg
+  name: Saria Said
+  email: appstartuparabic@gmail.com
+photo: /assets/photo.png
 
 # build settings
 
